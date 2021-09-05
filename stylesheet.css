@@ -34,6 +34,10 @@ div.desc {
     text-align: center;
 }
 
+div.desc span{
+    color:seagreen;
+}
+
 @media all and (max-width:577px){
     div.gallery {
         width: 100%;
