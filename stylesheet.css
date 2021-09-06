@@ -11,6 +11,7 @@ body{
     padding-top: 50px;
     padding-left: 75px;
 }
+
 .col-sm{
     padding:0!important;
 }
@@ -25,6 +26,7 @@ div.gallery {
 div.gallery:hover {
     border: 1px solid #777;
 }
+
 div.gallery img {
     width: 100%;
     height: auto;
@@ -46,8 +48,9 @@ div.desc span{
 
 .container {
     text-align: center;
-
+    margin: 25px 100px 25px 100px;
 }
+
 li{
     text-align:center;
 }
@@ -56,5 +59,5 @@ li{
     text-align: center;
     margin-top: auto;
     position: relative;
-    top: -34px;
+    top: -28px;
 }
